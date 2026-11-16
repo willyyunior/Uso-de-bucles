@@ -1,9 +1,9 @@
 # Uso-de-bucles
 
-**Nombre: Willy Yunior De La Rosa Sanchez
-Matrricula: 2026-1776
-Asignatura: Loigca De Programacion
-Profesor: Gamalier Reyes del Carmen**
+**Nombre:** Willy Yunior De La Rosa Sanchez
+**Matrricula:** 2026-1776
+**Asignatura:** Logica De Programacion
+**Profesor:** Gamalier Reyes del Carmen
 
 
 
