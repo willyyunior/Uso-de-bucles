@@ -1,9 +1,9 @@
 # Uso-de-bucles
 
-**Nombre: 
-Matrricula:
-Asignatura:**
-Profesor:**
+**Nombre: Willy Yunior De La Rosa Sanchez
+Matrricula: 2026-1776
+Asignatura: Loigca De Programacion
+Profesor: Gamalier Reyes del Carmen**
 
 
 
